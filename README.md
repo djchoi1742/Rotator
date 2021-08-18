@@ -1,8 +1,8 @@
 # Rotator
 Deep learning algorithm to predict rotator cuff tear
 
-# Algorithm
+### Algorithm
 
-# Aggregate network
+### Aggregate network
 
-# Predict
+### Predict
